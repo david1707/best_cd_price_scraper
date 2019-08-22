@@ -6,4 +6,4 @@ Install the libraries on requirements.txt into a new environment, then run 'pyth
 
 The script will ask you for a band and then scrap 'Best CD Price' website.
 
-The results will be store into BANDNAME_albums.csv. If there are no albums, you'll get a 'Search returned no results.' instead
+The results will be store into BANDNAME_albums.csv. If there are no albums, you'll get a 'Search returned no results.' instead.
